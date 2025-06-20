@@ -8,3 +8,4 @@
 - `hw8_1.3.1_1.3.2_Цикл_for` - робота з циклом for в Python
 - `hw8_1.3.3_Comprehensions` -  робота з list comprehension в Python
 - `hw8_1.3.4_Цикл_while` - робота з циклом while в Python
+- `hw8_2.1_Функції_Основи.ipynb` - основи в роботі з функціями в Python
