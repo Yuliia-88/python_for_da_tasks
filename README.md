@@ -12,3 +12,7 @@
 - `hw8_2.2_Функції_Продовження.ipynb`- робота з функціями в Python
 - `hw8_2.3_Модулі_Винятки.ipynb` - робота з модулями та винятками в Python
 - `hw8_2.4_Класи.ipynb` - робота з класами та методами класів в Python
+# Домашні завдання з курсу "Робота з табличними даними: Pandas та Numpy"
+
+- `hw9_3.1_Введення_у_Pandas_та_NumPy.ipynb` - Введення_у_Pandas_та_NumPy
+- - `https://drive.google.com/file/d/1WqTRV3NdO3FLe8MoyD2llHPqVkojNECn/view?usp=drive_link` - файл `supermarket_sales.csv` з набором даних про продажі в різних магазинах мережі супермаркетів
