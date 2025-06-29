@@ -15,5 +15,6 @@
 # Домашні завдання з курсу "Робота з табличними даними: Pandas та Numpy"
 
 - `hw9_3.1_Введення_у_Pandas_та_NumPy.ipynb` - Введення у Pandas та NumPy
+
  [файл `supermarket_sales.csv` з набором даних про продажі в різних магазинах мережі супермаркетів](https://drive.google.com/file/d/1WqTRV3NdO3FLe8MoyD2llHPqVkojNECn/view?usp=drive_link)
 - `hw9_3.2_Основи_роботи_з_даними_у_Pandas.ipynb` - Основи роботи з даними у Pandas
