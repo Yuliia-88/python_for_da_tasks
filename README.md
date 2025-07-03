@@ -19,3 +19,4 @@
  [файл `supermarket_sales.csv` з набором даних про продажі в різних магазинах мережі супермаркетів](https://drive.google.com/file/d/1WqTRV3NdO3FLe8MoyD2llHPqVkojNECn/view?usp=drive_link)
 - `hw9_3.2_Основи_роботи_з_даними_у_Pandas.ipynb` - основи роботи з даними у Pandas
 - `hw9_3.3_Розширені_методи_обробки_даних_у_Pandas.ipynb` - обробка даних у Pandas
+- `hw9_3.4_3.5_apply,_groupby,_pivot_table.ipynb` - застосування функцій groupby, pivot і pivot_table в Pandas
