@@ -20,3 +20,8 @@
 - `hw9_3.2_Основи_роботи_з_даними_у_Pandas.ipynb` - основи роботи з даними у Pandas
 - `hw9_3.3_Розширені_методи_обробки_даних_у_Pandas.ipynb` - обробка даних у Pandas
 - `hw9_3.4_3.5_apply,_groupby,_pivot_table.ipynb` - застосування функцій groupby, pivot і pivot_table в Pandas
+
+# Домашні завдання для роботи в Python
+
+- `Additional_hw_1_Базові_типи_даних_Цикли.ipynb` - робота з базовими типами даних та циклами в Python
+  
