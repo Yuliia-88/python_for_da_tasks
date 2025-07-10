@@ -14,7 +14,7 @@
 - `hw8_2.4_Класи.ipynb` - робота з класами та методами класів в Python
 # Домашні завдання з курсу "Робота з табличними даними: Pandas та Numpy"
 
- [файл `supermarket_sales.csv` з набором даних про оренду велосипедів](https://drive.google.com/file/d/1WqTRV3NdO3FLe8MoyD2llHPqVkojNECn/view?usp=drive_link)
+ [файл `supermarket_sales.csv` з набором даних про продажі в різних магазинах мережі супермаркетів](https://drive.google.com/file/d/1WqTRV3NdO3FLe8MoyD2llHPqVkojNECn/view?usp=drive_link)
 - `hw9_3.1_Введення_у_Pandas_та_NumPy.ipynb` - введення у Pandas та NumPy
 - `hw9_3.2_Основи_роботи_з_даними_у_Pandas.ipynb` - основи роботи з даними у Pandas
 - `hw9_3.3_Розширені_методи_обробки_даних_у_Pandas.ipynb` - обробка даних у Pandas
@@ -22,7 +22,7 @@
 
 # Домашні завдання з курсу "Візуалізація даниих з Python"
 
- [файл `yulu_rental.csv` з набором даних про продажі в різних магазинах мережі супермаркетів](https://drive.google.com/file/d/1MoBHbTc9Ci2rlhDTDhGLEyLEYsaZVcPW/view?usp=drive_link)
+ [файл `yulu_rental.csv` з набором даних про оренду велосипедів](https://drive.google.com/file/d/1MoBHbTc9Ci2rlhDTDhGLEyLEYsaZVcPW/view?usp=drive_link)
 - `HW1_Візуалізація_даних_з_Pandas.ipynb` - базова візуалізація в Pandas за допомогою метода `.plot()`
 
 
