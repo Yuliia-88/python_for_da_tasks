@@ -20,10 +20,11 @@
 - `hw9_3.3_Розширені_методи_обробки_даних_у_Pandas.ipynb` - обробка даних у Pandas
 - `hw9_3.4_3.5_apply,_groupby,_pivot_table.ipynb` - застосування функцій groupby, pivot і pivot_table в Pandas
 
-# Домашні завдання з курсу "Візуалізація даниих з Python"
+# Домашні завдання з курсу "Візуалізація даних з Python"
 
  [файл `yulu_rental.csv` з набором даних про оренду велосипедів](https://drive.google.com/file/d/1MoBHbTc9Ci2rlhDTDhGLEyLEYsaZVcPW/view?usp=drive_link)
 - `HW1_Візуалізація_даних_з_Pandas.ipynb` - базова візуалізація в Pandas за допомогою метода `.plot()`
+- `HW2_Візуалізація_даних_з_Matplotlib.ipynb` - візуалізація даних з `Matplotlib`, тонкі налаштування графіків
 
 
 # Додаткові завдання для роботи в Python
