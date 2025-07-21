@@ -24,8 +24,8 @@
 
  [файл `yulu_rental.csv` з набором даних про оренду велосипедів](https://drive.google.com/file/d/1MoBHbTc9Ci2rlhDTDhGLEyLEYsaZVcPW/view?usp=drive_link)
 - `HW1_Візуалізація_даних_з_Pandas.ipynb` - базова візуалізація в Pandas за допомогою метода `.plot()`
-- `HW2_Візуалізація_даних_з_Matplotlib.ipynb` - візуалізація даних з `Matplotlib`, тонкі налаштування графіків
-
+- `HW2_Візуалізація_даних_з_Matplotlib.ipynb` - візуалізація даних з Matplotlib, тонкі налаштування графіків
+- `HW3_Статистичні_візуалізації_з_Seaborn.ipynb` - візуалізація даних з Seaborn
 
 # Додаткові завдання для роботи в Python
 
