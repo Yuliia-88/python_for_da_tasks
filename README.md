@@ -38,7 +38,7 @@
 
 # Домашні завдання з курсу "Тестування статистичних гіпотез та A/B тестування"
 
- [файл `data.csv` з сумами покупок в доларах покупців на сайті протягом липня 2025 року]([https://drive.google.com/file/d/1WqTRV3NdO3FLe8MoyD2llHPqVkojNECn/view?usp=drive_link](https://drive.google.com/file/d/1CsUGwfDjx85VMFjF9eC0yG28qT5idefS/view?usp=drive_link))
+ [файл `data.csv` з сумами покупок в доларах покупців на сайті протягом липня 2025 року](https://drive.google.com/file/d/1CsUGwfDjx85VMFjF9eC0yG28qT5idefS/view?usp=drive_link)
 - `HW14_2_Перевірка_статиcтичних_гіпотез_Z_test.ipynb` - Перевірка статиcтичних гіпотез на Python: z-test
   
 # Додаткові завдання для роботи в Python
