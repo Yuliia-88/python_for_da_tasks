@@ -41,6 +41,7 @@
  [файл `data.csv` з сумами покупок в доларах покупців на сайті протягом липня 2025 року](https://drive.google.com/file/d/1CsUGwfDjx85VMFjF9eC0yG28qT5idefS/view?usp=drive_link)
 - `HW14_2_Перевірка_статиcтичних_гіпотез_Z_test.ipynb` - Перевірка статиcтичних гіпотез на Python: z-test
 - `HW14_3_Тести_для_малих_вибірок_та_пропорцій.ipynb` - Тести для малих вибірок та пропорцій на Python
+  
  [файл `cookie_cats.csv` з даними користувачів популярної гри Cookie Cats](https://drive.google.com/file/d/15KlgMTLnD6foPNbwFx--wjo_xWmHpz4x/view?usp=sharing)
 - `HW14_4_Аналіз_А_В_тестів.ipynb` - Аналіз А/В тестів, Хі-квадрат-тест на Python
   
