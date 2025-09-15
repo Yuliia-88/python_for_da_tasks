@@ -45,6 +45,11 @@
  [файл `cookie_cats.csv` з даними користувачів популярної гри Cookie Cats](https://drive.google.com/file/d/15KlgMTLnD6foPNbwFx--wjo_xWmHpz4x/view?usp=sharing)
 - `HW14_4_Аналіз_А_В_тестів.ipynb` - Аналіз А/В тестів, Хі-квадрат-тест на Python
   
+# Домашні завдання з курсу "Основи машинного навчання для аналітика даних"
+
+ [файл `House_Rent_Dataset.csv` файл з інформацією про 4700+ оголошень про оренду житла в Індії](https://drive.google.com/file/d/1MvwgxWtdUNL6BMgvpop1PNux2FSXXz7r/view?usp=sharing)
+- `HW15_1_Прогнозування_орендної_плати_за_житло.ipynb` - Модель лінійної регресії. Прогнозування орендної плати за житло на Python
+
 # Додаткові завдання для роботи в Python
 
 - `Additional_hw_1_Базові_типи_даних_Цикли.ipynb` - робота з базовими типами даних та циклами в Python
