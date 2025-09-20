@@ -50,6 +50,9 @@
  [файл `House_Rent_Dataset.csv` файл з інформацією про 4700+ оголошень про оренду житла в Індії](https://drive.google.com/file/d/1MvwgxWtdUNL6BMgvpop1PNux2FSXXz7r/view?usp=sharing)
 - `HW15_1_Прогнозування_орендної_плати_за_житло.ipynb` - Модель лінійної регресії. Прогнозування орендної плати за житло на Python
 
+[файл `credit_risk_dataset.csv` файл з інформацією про 32,000+ позичальників](https://drive.google.com/file/d/1b2E1W_XwPJVck-wsBLgPEpnlG2sonS1b/view?usp=sharing)
+- `HW15_2_Прогнозування_кредитного_ризику.ipynb` - Модель логістичної регресії. Прогнозування ймовірності дефолту за кредитом на Python
+
 # Додаткові завдання для роботи в Python
 
 - `Additional_hw_1_Базові_типи_даних_Цикли.ipynb` - робота з базовими типами даних та циклами в Python
